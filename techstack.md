@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 dukesx/mdx is built on the following main stack:
+
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [React](https://reactjs.org/) – Javascript UI Libraries
 - [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
@@ -23,11 +24,13 @@ dukesx/mdx is built on the following main stack:
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 dukesx/mdx is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
@@ -49,14 +52,15 @@ dukesx/mdx is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [dukesx/mdx](https://github.com/dukesx/mdx)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|70<br/>Tools used|11/11/23 <br/>Report generated|
+|72<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -267,9 +271,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (47)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (49)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (47)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (49)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -297,7 +301,9 @@ Full tech stack [here](/techstack.md)
 |[express](https://www.npmjs.com/express)|v4.17.1|12/30/19|Christian Murphy |MIT|[CVE-2022-24999](https://github.com/advisories/GHSA-hrpp-h998-j3pp) (High)|
 |[gatsby-plugin-react-helmet](https://www.npmjs.com/gatsby-plugin-react-helmet)|v3.3.10|12/28/20|Titus |MIT|N/A|
 |[gatsby-source-filesystem](https://www.npmjs.com/gatsby-source-filesystem)|v2.3.19|12/28/20|Titus |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v4.3.6|11/19/20|Titus |MIT|N/A|
 |[ink](https://www.npmjs.com/ink)|v3.0.8|06/21/19|John Otander |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v10.5.3|12/20/20|Titus |MIT|N/A|
 |[loader-utils](https://www.npmjs.com/loader-utils)|v1.2.3|12/20/20|Titus |MIT|[CVE-2022-37601](https://github.com/advisories/GHSA-76p3-8jx3-jpfq) (Critical)<br/>[CVE-2022-37599](https://github.com/advisories/GHSA-hhq3-ff78-jv3g) (High)<br/>[CVE-2022-37603](https://github.com/advisories/GHSA-3rfm-jhwj-7488) (High)|
 |[lodash.flatten](https://www.npmjs.com/lodash.flatten)|v4.4.0|07/17/19|renovate[bot] |MIT|N/A|
 |[memory-fs](https://www.npmjs.com/memory-fs)|v0.4.1|11/19/20|Titus |MIT|N/A|
@@ -324,4 +330,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
